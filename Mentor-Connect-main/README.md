@@ -1,6 +1,6 @@
-# EduConnect
+# Mentor connect
 
-**EduConnect** is a web platform designed to bridge the gap between **mentors** and **mentees** by providing a simple, intuitive interface for connection and collaboration. Built with **Node.js**, **Express**, and **MongoDB**, it enables users to register, log in, and connect based on shared skills and interests.
+**Mentor Connect** is a web platform designed to bridge the gap between **mentors** and **mentees** by providing a simple, intuitive interface for connection and collaboration. Built with **Node.js**, **Express**, and **MongoDB**, it enables users to register, log in, and connect based on shared skills and interests.
 
 ---
 
